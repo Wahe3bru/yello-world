@@ -1,6 +1,6 @@
 var url1 = "http://muslimsalat.com/capetown/"
-var times = "weekly";
-var date = "/07-11-2016"
+var times = "weekly"; 
+var date = "/07-11-2016" //current date used if not specified
 var url2 = "/false/5.json?key=5e502de485f8bcb103035818b584551d"
 var url = url1 + times + /*date +*/ url2;
 var solaahT;
